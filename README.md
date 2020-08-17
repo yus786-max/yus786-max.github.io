@@ -4,3 +4,5 @@
 
 **this is just to see what i know**
 
+the site is up and running
+
