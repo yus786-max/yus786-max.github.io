@@ -2,4 +2,5 @@
 ## practice session one
 ##### unknown error 
 
-![image add] 
+**this is just to see what i know**
+
