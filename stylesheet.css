@@ -1,6 +1,5 @@
 @charset "UTF-8";
 #mainframe {
- background-image: url(rainbow.jpg);
  padding: 20%;
  width: 50%;
  height: 50%;
@@ -9,8 +8,8 @@ font-optical-sizing: 0px;
 }
 
 #section1 {
-    background-image: url(rainbow.jpg);
-    
+    font-family: 'Dancing', serif;
+    font-size: 10px;     
 }
 
 
